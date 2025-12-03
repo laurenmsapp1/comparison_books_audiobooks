@@ -1,3 +1,5 @@
+READMEmustcontain:■Auniqueprojecttitle(notincludingwords:“capstone”or“Code:You”).■Instructionsforsettingup,activating/deactivatingavirtualenvironment,andrunningtheprojectonalloperatingsystems.■Linkstoalldatasourcesonlinewithcreditgivenandauthorscitedwhenpossible.■Asummaryofyourmainquestionsandfindings(observationsandconclusions)■Acknowledgementofanytools,frameworks,orexternalassistanceused-includinglibraries,frameworks,orAItools(suchasChatGPTforcodegenerationoreditingsupport).
+
 # Comparing Data Relationships Between Audio and Physical Books
 
 In this project, you will see the comparison of users preferential choices in audiobooks vs. physical books. There will be a breakdown of different variables in regards to whether the ratings chance based on the type and comparison of price in relation. 
