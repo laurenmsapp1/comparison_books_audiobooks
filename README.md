@@ -1,6 +1,6 @@
 # Relational Book and Audiobook Data for Comparison of Purchasing Factors for Readers
 
-This project explores relationships of user ratings for audio and physical books. It demonstrates data cleaning, exploratory analysis, and visualization in Python.
+This project explores relationships of user ratings for audio and physical books. It demonstrates data cleaning, exploratory analysis, and visualization in Python. 
 
 ## Instructions for Setting Up the Virtual Environment
 
